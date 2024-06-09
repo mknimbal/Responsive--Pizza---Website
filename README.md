@@ -33,7 +33,7 @@ Installation and Setup
 
 bash
 Copy code
-git clone https://github.com/yourusername/responsive-pizza-website.git
+git clone https://github.com/mknimbal/responsive-pizza-website.git
 cd responsive-pizza-website
 Install dependencies:
 
@@ -86,5 +86,5 @@ Create a pull request.
 
 # Contact
 
-For any questions or feedback, feel free to contact us at [email@example.com].
+For any questions or feedback, feel free to contact us at [mknimbal123@gmail.com].
 
